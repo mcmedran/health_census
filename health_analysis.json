@@ -19,7 +19,7 @@
       },
       {
         "name": "Diabetes",
-        "imagesrc":"diabeties.jpg",
+        "imagesrc":"https://www.aissel.com/public/assets/images/article_images/c624c38c6dcef3a404954e334132ad07.jpg",
         "symptoms": [
           "Frequent urination",
           "Increased thirst",
@@ -36,7 +36,7 @@
       },
       {
         "name": "High Blood Pressure",
-        "imagesrc":"blood_pressure.jpg",
+        "imagesrc":"https://media.istockphoto.com/id/1296143209/vector/blood-pressure-meter-electronic-sphygmomanometer-in-flat-line-style-isolated-on-white.jpg?s=1024x1024&w=is&k=20&c=S-_yBbU4sGNZcxyyLb3lB6iSYPXsfBNuwSbpoHQigkc=",
         "symptoms": [
           "Headaches",
           "Shortness of breath",
